@@ -3,7 +3,7 @@ cask "native-access" do
   version "2.2.0"
   sha256 :no_check
 
-  url "https://native-instruments.com/fileadmin/downloads/Native_Access_2_Mac_#{arch}.dmg"
+  url "https://native-instruments.com/fileadmin/downloads/Native-Access_2_Mac_#{arch}.dmg"
   name "Native Access"
   desc "Administration tool for Native Instruments products"
   homepage "https://native-instruments.com/specials/native-access-2"
